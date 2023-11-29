@@ -1,2 +1,39 @@
-# LinearAlgebra_DataScience
-Python Assignment related to Math 264 at Montgomery College 
+# Assignments for Math 264: Application of Linear Algebra in Data Science
+
+Welcome to the assignments section of Math 264 ! Here, you will find a series of Python assignments designed to deepen your understanding of linear algebra concepts and their applications in data science.
+
+## Overview
+
+Each assignment in this folder focuses on different aspects of linear algebra, integrating Python programming to solve real-world data science problems. The assignments are structured to progressively build your skills and knowledge in the subject.
+
+## Assignment List
+
+- **Assignment 0: Getting Started with Python and Linear Algebra**
+  - An introductory assignment to familiarize you with Python and basic linear algebra concepts.
+  
+- **Assignment 1: Vectors and Operations**
+  - Focuses on understanding vectors and performing various vector operations using Python.
+
+- **Assignment 2: Matrices and Transformations**
+  - Delves into matrices, their properties, and how they are used in transformations.
+
+- **Assignment 3: Eigenvalues and Eigenvectors**
+  - Explores the concepts of eigenvalues and eigenvectors, and their significance in data science.
+
+- **Assignment 4: Spanning, Linear Independence, and Basis**
+  - Covers the crucial concepts of spanning sets, linear independence, and basis in vector spaces.
+
+## Instructions
+
+- Each assignment file is a PDF containing the tasks, objectives, and any specific instructions or prerequisites.
+- You are encouraged to complete these assignments using Google Colab or any Python environment you are comfortable with.
+- Please adhere to the submission guidelines specified in each assignment.
+
+## Submission
+
+- After completing an assignment, share the link to your Google Colab notebook or submit your Python script as per the instructions in the assignment.
+- Ensure that your submissions are well-documented and include comments for clarity.
+
+## Additional Resources
+
+- For further reading and clarification, refer to the notes and resources linked within each assignment.
