@@ -10,6 +10,7 @@ Each assignment in this folder focuses on different aspects of linear algebra, i
 
 - [**Assignment 0: Getting Started with Python and Linear Algebra**](./Math264_Python_HW0.pdf)
   - An introductory assignment to familiarize you with Python and basic linear algebra concepts.
+  - [View the related Google Colab tutorial here](https://colab.research.google.com/drive/1bnzwqTSBxvf1nyzA-rHmO-FYi0tqT3Ar?usp=sharing).
   
 - [**Assignment 1: Vectors and Operations**](./Math264_Python_HW1.pdf)
   - Focuses on understanding vectors and performing various vector operations using Python.
