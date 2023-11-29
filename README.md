@@ -22,7 +22,7 @@ Each assignment in this folder focuses on different aspects of linear algebra, i
 
 - [**Assignment 3: Eigenvalues and Eigenvectors**](./Math264_Python_HW3.pdf)
   - Explores the concepts of eigenvalues and eigenvectors, and their significance in data science.
-  - [View the related Google Colab notebook here](./Math264_Assignment_3.ipynb).
+  - [View the related Google Colab notebook here](./Tutorial_Assignment_Three_.ipynb).
 
 - [**Assignment 4: Spanning, Linear Independence, and Basis**](./Math264_Python_HW4.pdf)
   - Covers the crucial concepts of spanning sets, linear independence, and basis in vector spaces.
