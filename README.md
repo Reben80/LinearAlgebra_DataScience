@@ -28,7 +28,7 @@ of Equations**](./Math264_Python_HW3.pdf)
 
 - [**Assignment 4: Spanning, Linear Independence, and Basis**](./Math264_Python_HW4.pdf)
   - Covers the crucial concepts of spanning sets, linear independence, and basis in vector spaces.
-  - [View the related Google Colab notebook here](./Tutorial_Assignment_Four.ipynb).
+  - [View the related Google Colab notebook here](./Tutorial_Assignment_Four_Python_Basics_for_Linear_Algebra.ipynb).
 
 ## Instructions
 
