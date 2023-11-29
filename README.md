@@ -14,7 +14,7 @@ Each assignment in this folder focuses on different aspects of linear algebra, i
   
 - [**Assignment 1: Vectors and Operations**](./Math264_Python_HW1.pdf)
   - Focuses on understanding vectors and performing various vector operations using Python.
-  - [View the related Google Colab notebook here](./Math264_Assignment_1.ipynb).
+  - [View the related Google Colab notebook here](./Tutorial_Assignment_One_Python_Basics_for_Linear_Algebra.ipynb).
 
 - [**Assignment 2: Matrices and Transformations**](./Math264_Python_HW2.pdf)
   - Delves into matrices, their properties, and how they are used in transformations.
