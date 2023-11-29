@@ -18,7 +18,7 @@ Each assignment in this folder focuses on different aspects of linear algebra, i
 
 - [**Assignment 2: Matrices and Transformations**](./Math264_Python_HW2.pdf)
   - Delves into matrices, their properties, and how they are used in transformations.
-  - [View the related Google Colab notebook here](./Math264_Assignment_2.ipynb).
+  - [View the related Google Colab notebook here](./Tutorial_Assignment_Two.ipynb).
 
 - [**Assignment 3: Eigenvalues and Eigenvectors**](./Math264_Python_HW3.pdf)
   - Explores the concepts of eigenvalues and eigenvectors, and their significance in data science.
