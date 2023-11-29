@@ -10,19 +10,23 @@ Each assignment in this folder focuses on different aspects of linear algebra, i
 
 - [**Assignment 0: Getting Started with Python and Linear Algebra**](./Math264_Python_HW0.pdf)
   - An introductory assignment to familiarize you with Python and basic linear algebra concepts.
-  - [View the related Google Colab tutorial here](https://colab.research.google.com/drive/1bnzwqTSBxvf1nyzA-rHmO-FYi0tqT3Ar?usp=sharing).
+  - [View the related Google Colab notebook here](./Math264_Assignment_0.ipynb).
   
 - [**Assignment 1: Vectors and Operations**](./Math264_Python_HW1.pdf)
   - Focuses on understanding vectors and performing various vector operations using Python.
+  - [View the related Google Colab notebook here](./Math264_Assignment_1.ipynb).
 
 - [**Assignment 2: Matrices and Transformations**](./Math264_Python_HW2.pdf)
   - Delves into matrices, their properties, and how they are used in transformations.
+  - [View the related Google Colab notebook here](./Math264_Assignment_2.ipynb).
 
 - [**Assignment 3: Eigenvalues and Eigenvectors**](./Math264_Python_HW3.pdf)
   - Explores the concepts of eigenvalues and eigenvectors, and their significance in data science.
+  - [View the related Google Colab notebook here](./Math264_Assignment_3.ipynb).
 
 - [**Assignment 4: Spanning, Linear Independence, and Basis**](./Math264_Python_HW4.pdf)
   - Covers the crucial concepts of spanning sets, linear independence, and basis in vector spaces.
+  - [View the related Google Colab notebook here](./Math264_Assignment_4.ipynb).
 
 ## Instructions
 
