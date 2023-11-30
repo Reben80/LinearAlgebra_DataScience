@@ -32,7 +32,7 @@ Each assignment in this series focuses on different aspects of linear algebra, i
 - [**Assignment 5: Matrix Multiplication in Python**](./Math264_Python_HW5.pdf)
   - 🧮 Focuses on implementing matrix multiplication using both a custom method and NumPy's built-in function.
   - 🔄 Tests both methods with matrices of different sizes to ensure correct implementation.
-  - [🔗 View the related Google Colab notebook here](./Tutorial_Assignment_Five_Matrix_Multiplication.ipynb).
+  - [🔗 View the related Google Colab notebook here](./Tutorial_Assignment_Five_.ipynb).
 
 
 ## 📖 Instructions
