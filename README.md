@@ -27,6 +27,13 @@ Each assignment in this series focuses on different aspects of linear algebra, i
 - [**Assignment 4: Spanning, Linear Independence, and Basis**](./Math264_Python_HW4.pdf)
   - 🌐 Covers spanning sets, linear independence, and basis in vector spaces.
   - [🔗 View the related Google Colab notebook here](./Tutorial_Assignment_Four_Python_Basics_for_Linear_Algebra.ipynb).
+ 
+    
+- [**Assignment 5: Matrix Multiplication in Python**](./Python_Programming_101_HW5.pdf)
+  - 🧮 Focuses on implementing matrix multiplication using both a custom method and NumPy's built-in function.
+  - 🔄 Tests both methods with matrices of different sizes to ensure correct implementation.
+  - [🔗 View the related Google Colab notebook here](./Tutorial_Assignment_Five_Matrix_Multiplication.ipynb).
+
 
 ## 📖 Instructions
 
