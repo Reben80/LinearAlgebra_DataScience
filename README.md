@@ -1,6 +1,7 @@
 # 📚 Assignments for Math 264: Application of Linear Algebra in Data Science
 
-Welcome to the assignments section of **Math 264**! Here, the main goal is solving Linear Algebra problems using Python. and Eventually use it to solve applied problem. 
+Welcome to the assignments section of **Math 264**! Here, the main goal is solving Linear Algebra problems using Python and eventually using it to solve applied problems.
+
 
 ## 🌟 Overview
 
