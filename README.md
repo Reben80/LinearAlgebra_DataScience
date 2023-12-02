@@ -42,7 +42,7 @@ Each assignment in this series focuses on different aspects of linear algebra, i
   - These projects require a strong understanding of linear algebra fundamentals and proficiency in Python.
   - Detailed instructions and datasets will be provided for each project.
 
-### [**Applied Project 1: Exploring Markov Chains**](./Math264_Applied_Project_2_Markov_Chains.pdf)
+### [**Applied Project 1: Exploring Markov Chains**](./Math264_Applied_Project_1_Markov_Chains.pdf)
   - 🔍 Explore the concept of Markov Chains and their applications in various fields.
   - 📈 Use Python to model and analyze probabilistic processes with Markov Chains.
   - 🧪 Gain insights into stochastic processes and their representation using linear algebra.
