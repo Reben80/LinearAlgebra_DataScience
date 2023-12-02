@@ -51,8 +51,9 @@ Each assignment in this series focuses on different aspects of linear algebra, i
   - 🏈 Dive into sports analytics by applying the Massey Rating system to evaluate team performances.
   - 🧮 Utilize Python to analyze real sports data and compute Massey ratings.
   - 📊 Develop skills in data handling, matrix operations, and linear algebra applications.
-  - [🔗 Slides(./LA_Action_Massey1.pdf)].
-  - [NFL Dataset(Dataset./nfl 1978.csv)]
+  - [🔗 Slides](./LA_Action_Massey1.pdf)
+  - [🔗 NFL Dataset](./nfl%201978.csv)
+
 
 
 ## 📖 Instructions
