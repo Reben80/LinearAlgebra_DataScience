@@ -46,13 +46,13 @@ Each assignment in this series focuses on different aspects of linear algebra, i
   - 🔍 Explore the concept of Markov Chains and their applications in various fields.
   - 📈 Use Python to model and analyze probabilistic processes with Markov Chains.
   - 🧪 Gain insights into stochastic processes and their representation using linear algebra.
-  - [🔗 Tutorial and dataset links to be added].
 
 ### [**Applied Project 2: Massey Ratings Analysis in Sports**](./Math264_Applied_Project_1_Massey_Rating.pdf)
   - 🏈 Dive into sports analytics by applying the Massey Rating system to evaluate team performances.
   - 🧮 Utilize Python to analyze real sports data and compute Massey ratings.
   - 📊 Develop skills in data handling, matrix operations, and linear algebra applications.
-  - [🔗 Tutorial and dataset links to be added].
+  - [🔗 Tutorial and/].
+  - [Dataset./nfl 1978.csv]
 
 
 ## 📖 Instructions
