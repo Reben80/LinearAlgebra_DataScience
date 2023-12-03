@@ -37,11 +37,8 @@ Each assignment in this series focuses on different aspects of linear algebra, i
 
 ## 🌍 Applied Linear Algebra Projects
 
-- **New! Applied Project Series**
   - These projects focus on real-world applications of linear algebra concepts using Python. They are designed to bridge the gap between theory and practical implementation.
   - Examples include analyzing sports data using the Massey Rating System and exploring probabilistic models with Markov Chains.
-  - These projects require a strong understanding of linear algebra fundamentals and proficiency in Python.
-  - Detailed instructions and datasets will be provided for each project.
 
 ### [**Applied Project 1: Exploring Markov Chains**](./Markov%20Chains%20(2).pdf)
   - 🔍 Explore the concept of Markov Chains and their applications in various fields.
